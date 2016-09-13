@@ -17,7 +17,8 @@ cd /opt/ptc/Windchill_11.0/Windchill/bin
 
 
 ### 4. Navigate to the build folder ###
-
+cd /opt/ptc/Windchill_11.0/Windchill/bin
+./windchill shell
 cd /opt/ptc/Windchill_11.0/Windchill/SourceCode/Build
 
 ### 5. Execute the ant command ###
